@@ -10,8 +10,8 @@
  } from 'react-native';
  
  const App () => {
-   return (
- 
+   return(
+    asdaasdasda
    );
  };
  
